@@ -22,6 +22,7 @@ function App() {
       <Route  path='/career'Component={Career}/>
       <Route  path='/Pitch'Component={Pitch}/>
      </Routes>
+     <Home/>
      <Footer/>
      </BrowserRouter>
       
