@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/resoluteDemo/static/css/main.10f3ae82.css",
+    "main.js": "/resoluteDemo/static/js/main.57dc47e5.js",
+    "static/js/453.cd09d108.chunk.js": "/resoluteDemo/static/js/453.cd09d108.chunk.js",
+    "static/media/Banner-3.jpg": "/resoluteDemo/static/media/Banner-3.187441f79b2f92337801.jpg",
+    "static/media/Banner-1.jpg": "/resoluteDemo/static/media/Banner-1.0e7864ff811e7e85efa6.jpg",
+    "static/media/Banner-2.jpg": "/resoluteDemo/static/media/Banner-2.66097026168dc66d2ed7.jpg",
+    "static/media/Resolute-UI-Banner-1.jpg": "/resoluteDemo/static/media/Resolute-UI-Banner-1.877e6822a5d4553f58ca.jpg",
+    "static/media/Resolute-UI-Alok-Sir.jpg": "/resoluteDemo/static/media/Resolute-UI-Alok-Sir.53fce3c0333330c8a9ce.jpg",
+    "static/media/Delhi-Toofan.jpg": "/resoluteDemo/static/media/Delhi-Toofan.a0b738e234a4b2fdaad1.jpg",
+    "static/media/client-1.jpg": "/resoluteDemo/static/media/client-1.a0b738e234a4b2fdaad1.jpg",
+    "static/media/WhatApart.jpg": "/resoluteDemo/static/media/WhatApart.4dc3ea750e3796e4962c.jpg",
+    "static/media/MissionVis.jpg": "/resoluteDemo/static/media/MissionVis.8cb7ba066e10e236473c.jpg",
+    "static/media/Resolute-UI-Portfolio.jpg": "/resoluteDemo/static/media/Resolute-UI-Portfolio.863079e719c0038ea1b6.jpg",
+    "static/media/Resolute-UI-About.jpg": "/resoluteDemo/static/media/Resolute-UI-About.e54dde471cdc70381af0.jpg",
+    "static/media/Share-Square.jpg": "/resoluteDemo/static/media/Share-Square.301a7660838d5d12b8bd.jpg",
+    "static/media/HDC.jpg": "/resoluteDemo/static/media/HDC.c2cbd4ee18e2a94952ec.jpg",
+    "static/media/Vivek.jpg": "/resoluteDemo/static/media/Vivek.59a31e317ba3666973f2.jpg",
+    "static/media/Sanghi-Cement.jpg": "/resoluteDemo/static/media/Sanghi-Cement.d2a2de68e5cbcf56eeac.jpg",
+    "static/media/Amrita.jpg": "/resoluteDemo/static/media/Amrita.8e066df84cac9579c6fe.jpg",
+    "static/media/Dilip.jpg": "/resoluteDemo/static/media/Dilip.58fe175c87e3c7d98fb8.jpg",
+    "static/media/dt-logo.jpg": "/resoluteDemo/static/media/dt-logo.ed88d599442bc63ff2db.jpg",
+    "static/media/Manish.jpg": "/resoluteDemo/static/media/Manish.e3ae4effae42a5212f04.jpg",
+    "static/media/sanghi-logo.jpg": "/resoluteDemo/static/media/sanghi-logo.d65bf163fbcdea4611fb.jpg",
+    "static/media/samruddhi-logo.jpg": "/resoluteDemo/static/media/samruddhi-logo.f9fc3d2e8d635212b228.jpg",
+    "static/media/shareSquare.jpg": "/resoluteDemo/static/media/shareSquare.55fc6c4ccec66452d889.jpg",
+    "static/media/logo.png": "/resoluteDemo/static/media/logo.99b32514bfd505fe377a.png",
+    "static/media/hdc-logo.jpg": "/resoluteDemo/static/media/hdc-logo.a629cb6cae26f447ed8d.jpg",
+    "static/media/slick.svg": "/resoluteDemo/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/resoluteDemo/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/resoluteDemo/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/resoluteDemo/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/resoluteDemo/index.html",
+    "main.10f3ae82.css.map": "/resoluteDemo/static/css/main.10f3ae82.css.map",
+    "main.57dc47e5.js.map": "/resoluteDemo/static/js/main.57dc47e5.js.map",
+    "453.cd09d108.chunk.js.map": "/resoluteDemo/static/js/453.cd09d108.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10f3ae82.css",
+    "static/js/main.57dc47e5.js"
+  ]
+}
